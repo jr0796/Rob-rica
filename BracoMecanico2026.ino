@@ -1,4 +1,4 @@
-
+//Produzido com uso de IA  - ChatGT
 #include <Servo.h>
 
 Servo esquerda;
